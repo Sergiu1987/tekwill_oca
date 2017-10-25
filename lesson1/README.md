@@ -4,7 +4,7 @@
 ##User Story     
     Story Points Estimations
 ##Roles
-    Scrum Master
+    Scrum Master \n
     Developers
     Testers
     Deploy Engineers
