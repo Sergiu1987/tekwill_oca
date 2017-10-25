@@ -1,10 +1,8 @@
 #Agile/Scrum Concepts
-
-
 ##User Story     
     Story Points Estimations
 ##Roles
-    Scrum Master \n
+    Scrum Master 
     Developers
     Testers
     Deploy Engineers
