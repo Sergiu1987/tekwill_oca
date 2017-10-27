@@ -20,8 +20,9 @@ Scrum Concepts __
     Jira
 	
 	# Agile Concepts
-Scrum
-Canban
+	
+	Scrum
+	Canban
 ### Backlog
 ## User Story     
 ### Story Points Estimations
