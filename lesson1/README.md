@@ -10,7 +10,7 @@ Scrum Concepts
     >Deploy Engineers
     >Business Aanalyst
     >Architecs
-##Ceremonies
+## Ceremonies
     Es
     Sprints
     Daily Standup
