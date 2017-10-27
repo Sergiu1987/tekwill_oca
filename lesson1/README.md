@@ -24,7 +24,7 @@ Scrum Concepts __
 	Scrum
 	Canban
 ### Backlog
-## User Story     
+### User Story     
 ### Story Points Estimations
 ## Roles
 ### Product Owner
