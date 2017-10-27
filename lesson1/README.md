@@ -1,8 +1,8 @@
-Agile
-Scrum Concepts
+> Agile
+> Scrum Concepts
 
 ## User Story     
-    >Story Points Estimations
+    Story Points Estimations
 ## Roles
     Scrum Master 
     Developers
