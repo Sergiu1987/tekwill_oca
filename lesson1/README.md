@@ -6,15 +6,15 @@ Scrum Concepts
 ## Roles
     Scrum Master 
     Developers
-    >Testers
-    >Deploy Engineers
-    >Business Aanalyst
-    >Architecs
+    Testers
+    Deploy Engineers
+    Business Aanalyst
+    Architecs
 ## Ceremonies
     Es
     Sprints
     Daily Standup
     Demo
     Retrospectiva
-##Tools
+## Tools
     Jira
