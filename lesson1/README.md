@@ -1,6 +1,7 @@
->Agile/Scrum Concepts
+Agile
+Scrum Concepts
 
->##User Story     
+## User Story     
     >Story Points Estimations
 >##Roles
     Scrum Master 
