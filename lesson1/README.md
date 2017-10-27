@@ -1,14 +1,14 @@
 >Agile/Scrum Concepts
 
->User Story     
-    Story Points Estimations
-##Roles
+>##User Story     
+    >Story Points Estimations
+>##Roles
     Scrum Master 
     Developers
-    Testers
-    Deploy Engineers
-    Business Aanalyst
-    Architecs
+    >Testers
+    >Deploy Engineers
+    >Business Aanalyst
+    >Architecs
 ##Ceremonies
     Es
     Sprints
