@@ -61,4 +61,4 @@ static void afisare (int a1, int a2){
 
 
 
-} 
+}
