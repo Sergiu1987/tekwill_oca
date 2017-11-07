@@ -3,7 +3,7 @@ import com.sun.org.apache.xpath.internal.SourceTree;
 public class IfStatement {
 
     public static void main(String[] args) {
-        int quantity = 2;
+        int quantity = 1;
         int cost = 5;
         int costTotal = cost*quantity;
         String message = " avem " + quantity + " item";
