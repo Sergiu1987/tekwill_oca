@@ -4,6 +4,9 @@ public class Report {
     private String date;
     private String country;
     private String location;
+    private String event;
+    private String extra;
+
 
     @Override
     public String toString() {
@@ -57,7 +60,7 @@ public class Report {
         return extra;
     }
 
-    private String event;
+
 
     public Report(String date, String country, String location, String event, String extra) {
         this.date = date;
@@ -67,6 +70,5 @@ public class Report {
         this.extra = extra;
     }
 
-    private String extra;
 
 }

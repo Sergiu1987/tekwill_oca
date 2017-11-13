@@ -12,12 +12,17 @@ import java.util.Scanner;
 public class Main {
 
 
+
+
+
     private static List<Report> report;
     private static String trackingNumber;
 
 
     public static void main(String[] args) throws IOException {
+
         report = new ArrayList<>();
+
 
         Scanner scanner = new Scanner(System.in);
         System.out.println("Insert tracking number: ");
