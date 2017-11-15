@@ -4,16 +4,16 @@ public class Animal {
     String tip;
     String nume;
     String culoare;
-    String culoare_ochi;
-    int numar_picioare;
+    String culoareOchi;
+    int numarPicioare;
 
-    Animal(String tip, String nume, String culoare, String culoare_ochi, int numar_picioare){
+   /**Animal(String tip, String nume, String culoare, String culoareOchi, int numarPicioare){
         this.tip = tip;
         this.nume = nume;
         this.culoare = culoare;
-        this.culoare_ochi = culoare_ochi;
-        this.numar_picioare = numar_picioare;
-    }
+        this.culoareOchi = culoareOchi;
+        this.numarPicioare = numarPicioare;
+    }*/
 
     public void setTip(String Tip){
         this.tip = Tip;
@@ -24,11 +24,11 @@ public class Animal {
     public void setCuloare(String Culoare){
         this.culoare = Culoare;
     }
-    public void setCuloare_ochi(String Culoare_Ochi){
-        this.culoare_ochi = Culoare_Ochi;
+    public void setCuloareOchi(String Culoare_Ochi){
+        this.culoareOchi = Culoare_Ochi;
     }
-    public void setNumar_picioare(int Numar_Picioare){
-        this.numar_picioare = Numar_Picioare;
+    public void setNumarPicioare(int Numar_Picioare){
+        this.numarPicioare = Numar_Picioare;
     }
     public String getTip(){
         return tip;
@@ -39,10 +39,10 @@ public class Animal {
     public String getCuloare() {
         return culoare;
     }
-    public String getCuloare_ochi() {
-        return culoare_ochi;
+    public String getCuloareOchi() {
+        return culoareOchi;
     }
-    public int getNumar_picioare() {
-        return numar_picioare;
+    public int getNumarPicioare() {
+        return numarPicioare;
     }
 }
