@@ -1,20 +1,33 @@
 package animal;
 
 public class Animal {
+
+    //Variabilele de instanta;
     String tip;
     String nume;
     String culoare;
     String culoareOchi;
-    int numarPicioare;
+    Rasa animalRasa;
 
-   /**Animal(String tip, String nume, String culoare, String culoareOchi, int numarPicioare){
+    //Variabila de clasa;
+    static int numarPicioare;
+
+
+
+    //Crearea constructorului
+   Animal(String tip, String nume, String culoare, String culoareOchi, Rasa nouaRasa){
         this.tip = tip;
         this.nume = nume;
         this.culoare = culoare;
         this.culoareOchi = culoareOchi;
-        this.numarPicioare = numarPicioare;
-    }*/
+        this.animalRasa = nouaRasa;
+    }
+    Animal (){
 
+    }
+
+
+    //Metode de tip setter;
     public void setTip(String Tip){
         this.tip = Tip;
     }
@@ -27,9 +40,9 @@ public class Animal {
     public void setCuloareOchi(String Culoare_Ochi){
         this.culoareOchi = Culoare_Ochi;
     }
-    public void setNumarPicioare(int Numar_Picioare){
-        this.numarPicioare = Numar_Picioare;
-    }
+    public void setAnimalRasa(Rasa rasaAnimal) {this.animalRasa = rasaAnimal;}
+
+    //Metode de tip getter;
     public String getTip(){
         return tip;
     }
@@ -45,4 +58,19 @@ public class Animal {
     public int getNumarPicioare() {
         return numarPicioare;
     }
+    public Rasa getAnimalRasa(){return  animalRasa;}
+
+
+
+
+    @Override
+    public String toString() {
+        return "----------------------"+
+                "\nTip: " + tip + "\nNume: " + nume + "\nCuloare: " + culoare+
+                "\nCuloare ochi: " +culoareOchi+"\nNumar picioare: "+numarPicioare+
+                "\n"+animalRasa;
+
+
+    }
+
 }
