@@ -11,6 +11,8 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="lesson_13" target="1.8" />
+      <module name="lesson_13_2" target="1.8" />
+      <module name="lesson_13_self_practice" target="1.8" />
       <module name="tekwill_projects" target="1.8" />
     </bytecodeTargetLevel>
   </component>
