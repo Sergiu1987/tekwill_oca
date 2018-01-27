@@ -4,10 +4,12 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/practice_16/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/CodeWar/pom.xml" />
         <option value="$PROJECT_DIR$/lesson_13_2/pom.xml" />
         <option value="$PROJECT_DIR$/lesson_13_self_practice/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
